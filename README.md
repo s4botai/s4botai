@@ -24,11 +24,13 @@
 
 <h3 align="left">My Arsenal of Languages and Tools:</h3>
 <div align="left"> 
-  <img src="assets/burpsuite.svg" alt="python" width="40" height="40"/>
+  <img src="assets/burpsuite.svg" alt="burpsuite" width="40" height="40"/>
   <img src="assets/python.svg" alt="python" width="40" height="40"/>
-  <img src="assets/bash.svg" alt="python" width="40" height="40"/>
-  <img src="assets/wfuzz.svg" alt="python" width="100" height="40"/>
-  <img src="assets/linux.svg" alt="python" width="40" height="40"/>
+  <img src="assets/bash.svg" alt="bash" width="40" height="40"/>
+  <img src="assets/wfuzz.svg" alt="wfuzz" width="100" height="40"/>
+  <img src="assets/linux.svg" alt="linux" width="40" height="40"/>
+  <img src="assets/kalilinux.svg" alt="kali" width="40" height="40"/>
+  <img src="assets/hydra-logo.svg" alt="hydra" width="40" height="40"/>
 </div>
 
 <br>
@@ -36,6 +38,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=s4botai&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=s4botai&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=s4botai&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=s4botai&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="200" alt="languages graph"  />
 </div>
