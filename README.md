@@ -31,6 +31,7 @@
   <img src="assets/linux.svg" alt="linux" width="40" height="40"/>
   <img src="assets/kali-2.svg" alt="kali" width="40" height="40"/>
   <img src="assets/hydra-logo.svg" alt="hydra" width="40" height="40"/>
+  <img src="assets/metasploit-framework-logo.svg" alt="metasploit" width="40" height="40"/>
 </div>
 
 <br>
