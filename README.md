@@ -22,7 +22,7 @@
 
 <br>
 
-<h3 align="left">My Arsenal of Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 <div align="left"> 
   <img src="assets/burpsuite.svg" alt="burpsuite" width="40" height="40"/>
   <img src="assets/python.svg" alt="python" width="40" height="40"/>
