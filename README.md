@@ -8,7 +8,7 @@
 
 ###
 
-<h4 align="center"> I'm just someone that loves to hack things</h4>
+<h4 align="center"> Junior Bug Bounty Hunter</h4>
 
 <img align="right" alt="Coder" width="350" src="assets/coder.gif">
 
