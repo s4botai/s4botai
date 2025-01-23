@@ -13,7 +13,7 @@
 <img align="right" alt="Coder" width="350" src="assets/coder.gif">
 
 
-- 🌱 Improving my skills everyday
+- 🌱 "Tomorrow will be easier"
 - ✅ eJPTv2, eCPPTv2, CBBH, CPTS 🔜
 - 🧠 Specialising in Hacking Web
 - 💬 Checkout [**my blog**](https://s4botai.github.io)
